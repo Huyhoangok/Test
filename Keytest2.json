@@ -5,10 +5,5 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
-    {
-        "device_id": "f4840ec5656443d4",
-        "key": "huyhoang",
-        "expirydate": "16-12-2025",
-        "Allowoffline": false
-    }
+    
 ]
