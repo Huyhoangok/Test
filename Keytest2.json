@@ -10,5 +10,11 @@
         "key": "huyhoang",
         "expirydate": "16-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0e401589b4a66621",
+        "key": "hauloz",
+        "expirydate": "16-12-2025",
+        "Allowoffline": false
     }
 ]
